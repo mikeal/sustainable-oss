@@ -5,7 +5,7 @@
 
 # Outline
 
-* The Foundation (value of Participation, Transparency and Efficacy)
+* The Foundation
   * A Brief History of Open Source.
   * An Introduction to the GitHub Era of Open Source.
   * What does it mean to be sustainable?
